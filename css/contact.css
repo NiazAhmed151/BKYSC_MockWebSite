@@ -1,0 +1,33 @@
+#address_div
+{
+	position: absolute;
+	height:160px;
+	width:400px;
+	margin-top:200px;
+	margin-left:140px;
+}
+
+#address_div p
+{
+	color: #808080;
+}
+
+#locations_div
+{
+	position: absolute;
+	height:300px;
+	width:450px;
+	margin-top:400px;
+	margin-left:50px;
+}
+
+#locations_div p
+{
+	color: #808080;
+}
+
+#empty
+{
+	position: absolute;
+	margin-top:60px;	
+}	

@@ -1,0 +1,147 @@
+#donate_div
+{
+	position: absolute;
+	height:120px;
+	width: 1180px;
+	margin-top: 200px;
+	margin-left: 100px;
+	background-color: #F5F5F5;
+	box-shadow: 1px 1px 1px 1px #E8E8E8;
+}
+
+#big_text
+{
+	position: absolute;
+	height:90px;
+	width:1000px;
+	margin-top:20px;
+	margin-left: 20px;
+}
+
+#one
+{
+	position: absolute;
+	font-size: 35px;
+	margin-top:0px;
+	color: #606060;
+}
+
+
+#two
+{
+	position: absolute;
+	margin-top:50px;
+	font-size: 14px;
+	color: #707070;
+}
+
+.section
+{
+	position: absolute;
+	margin-top:360px;
+	height: 500px;
+	width: 380px;
+	margin-left: 580px;
+	display: inline-block;
+}
+
+#section_first
+{
+	margin-left: 100px;
+	
+}
+
+
+#section_third
+{
+	margin-left:900px;
+}
+.head
+{
+	position: relative;
+	height:80px;
+	width: 100%;
+}
+
+.head p
+{
+	font-size: 30px;
+	text-align: left;
+	color: red;
+}
+
+#section_text
+{
+	position: absolute;
+	height:200px;
+	width:100%;
+}
+
+#section_text p
+{
+	color: #606060;
+}
+
+#section_pic
+{
+	height:218px;
+	width:100%;
+	position: absolute;
+	margin-top:180px;
+}
+
+#section3_pic
+{
+	position: absolute;
+	width: 100%;
+	height:200px;
+}
+
+#section3_text_1
+{
+	position: absolute;
+	margin-top:160px;
+}
+
+
+#section3_text_1
+{
+	color: #606060;
+}
+
+#section3_text_2
+{
+	position: absolute;
+	height:140px;
+	width:100%;
+	margin-top:220px;
+}
+
+#section3_text_2 p
+{
+	color: #606060;
+	font-size:20px;
+}
+
+#section3_text_3 
+{
+	position: absolute;
+	height:50px;
+	width: 100%;
+	margin-top:365px;
+}
+
+#section3_text_3 p
+{
+	color:#606060;
+	font-size:16px;
+}
+
+#empty
+{
+	position: absolute;
+	margin-top:920px;
+}
+
+
+

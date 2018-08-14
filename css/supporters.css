@@ -1,0 +1,54 @@
+#header 
+{
+	position: absolute;
+	height:60px;
+	width:200px;
+	margin-top:200px;
+	margin-left:70px;
+}
+
+
+#header p
+{
+	font-size:25px;
+	color:red;
+}
+
+#text_div_1
+{
+	position: absolute;
+	height:980px;
+	width:300px;
+	margin-top:300px;
+	margin-left: 160px;
+	line-height: 150%;
+}
+
+#text_div_1 p
+{
+	font-size: 15px;
+	color: #606060;
+}
+
+#text_div_2
+{
+	position: absolute;
+	height:510px;
+	width:300px;
+	margin-top:300px;
+	margin-left: 540px;
+	line-height: 150%;
+}
+
+#text_div_2 p
+{
+	font-size: 15px;
+	color: #606060;
+}
+
+
+
+#empty
+{
+	margin-top:1360px;
+}

@@ -1,0 +1,130 @@
+#strip
+{
+	position: absolute;
+	height:40px;
+	width:1400px;
+	background-color:#B00000;
+}
+
+.social
+{
+	height:40px;
+	width:40px;
+	position: relative;
+	margin-left: 22px;
+}
+
+#social_first
+{
+	margin-left:1200px;
+}
+
+#social_three
+{
+	position: absolute;
+	height:45px;
+}
+
+#logo_div
+{
+	position: absolute;
+	margin-top:35px;
+	height: 140px;
+	width:1400px;
+	background-color: #F5F5F5;
+}
+
+#logo_div img
+{
+	position: absolute;
+	margin-left: 60px;
+	margin-top:20px;
+}
+
+.nav
+{
+	display: inline-block;
+	position: relative;
+	height:35px;
+	width:80px;
+	margin-left: 20px; 
+	margin-top: 55px;
+	text-align: center;
+	background-color:#F5F5F5;
+	z-index: 2;
+}
+
+.nav a
+{
+	text-decoration: none;
+}
+
+
+.nav p
+{
+	margin-top: 10px;
+    font-size: 15px;
+    color:  #808080;
+}
+
+
+#first_nav
+{
+	margin-left: 750px;
+}
+
+#empty
+{
+	position: absolute;
+	height:10px;
+	width:10px;
+}
+
+#table_div
+{
+	position: absolute;
+	height:200px;
+	width:100px;
+	margin-left:850px;
+	margin-top:125px;
+	display: none;
+	z-index: 2;
+}
+
+table
+{	
+	height:100%;
+	width:100%;
+	position: relative;
+	border:1px solid black;
+}
+
+table td
+{
+	height:24px;
+	width:96%;
+	position: absolute;
+	font-size: 12px;
+	margin-left:-2px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+table td p
+{
+	position: absolute;
+	margin-top:4px;
+}
+
+table a
+{
+	text-decoration: none;
+	color: black;
+}
+
+#empty
+{
+	border:0px solid white;
+}
+
+

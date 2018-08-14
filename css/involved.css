@@ -1,0 +1,140 @@
+#ball_image
+{
+	position: absolute;
+	width:1200px;
+	height:400px;
+	margin-top:200px;
+	margin-left: 100px;
+}
+
+#description
+{
+	position: absolute;
+	height:50px;
+	width:1200px;
+	margin-top: 600px;
+	margin-left: 120px;
+}
+
+#description p
+{
+	font-size: 18px;
+	color: #808080;
+}
+
+#section_holder
+{
+	position: absolute;
+	height:280px;
+	width:1200px;
+	margin-top:700px;
+	margin-left:120px;
+}
+
+.section
+{
+	position: absolute;
+	height:220px;
+	width: 380px;
+	display: inline-block;
+	background-color: #F5F5F5;
+	box-shadow: 1px 1px 1px 1px #D8D8D8;
+	border-radius: 2%;
+}
+
+#sect_2
+{
+	margin-left: 410px;
+}
+
+#sect_3
+{
+	margin-left: 815px;
+}
+
+.section_head
+{
+	position: relative;
+	height:40px;
+	width:90%;
+	margin-left: 5%;
+	margin-top:5%;
+}
+
+.section_head p
+{
+	margin-top: 10px;
+	text-align: center;
+	font-size:30px;
+	color: red;
+}
+
+.section_text
+{
+	position: relative;
+	height:135px;
+	width: 90%;
+	margin-left: 5%;
+	margin-top:-10px;
+}
+
+.section_text p
+{
+	text-align: center;
+	color: #808080;
+}
+
+.section_button
+{
+	position: absolute;
+	height:50px;
+	width:90%;
+	margin-top:10px;
+	margin-left: 5%;
+}
+
+.section_button button
+{ 
+	border-radius: 10%;
+	height:35px;
+	width:120px;
+	margin-left: 35%;
+	font-size:12px;
+	margin-top: 14px;
+}
+
+#button_div
+{
+	position: absolute;
+	margin-top: 240px;
+	height:50px;
+	width: 100%;
+}
+
+.myButton
+{
+	height: 30px;
+	width: 130px;
+	position: absolute;
+}
+
+#button1
+{
+	margin-left: 130px;
+}
+
+#button2
+{
+	margin-left: 530px;
+}
+
+#button3
+{
+	margin-left: 950px;
+}
+
+#empty
+{
+	position: absolute;
+	margin-top: 1010px;
+}
